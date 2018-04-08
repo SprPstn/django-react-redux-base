@@ -49,7 +49,6 @@ We build on the shoulders of giants with the following technologies:
 * If the command line starts with $, the command should run with user privileges
 * If the command line starts with #, the command should run with root privileges
 
-
 ## Retrieve code
 
 * `$ git clone https://github.com/seedstars/django-react-redux-base.git`
